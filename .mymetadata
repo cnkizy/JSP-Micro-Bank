@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="com.eazybank"
+  id="myeclipse.1482133236406"
+  context-root="/com.eazyatm"
+  j2ee-spec="5.0"
+  archive="com.eazybank.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
