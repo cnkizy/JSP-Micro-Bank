@@ -1,4 +1,4 @@
-# JSP-Micro-Bank2
+# JSP-Micro-Bank
 
 
 When I was a freshman, the teacher gave us a JSP assignment, so I used JSP to do a small bank, it can transfer to each other, deposits, withdrawals, trading records, etc..
